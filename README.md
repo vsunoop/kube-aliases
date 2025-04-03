@@ -2,7 +2,7 @@
 Aliases for kubectl commands
 
 ##  Clone the repository to your system:
-git clone https://github.com/your-username/kube-aliases.git
+git clone https://github.com/your-username/kube-aliases.git:<br>
 cd kube-aliases
 
 ## Run the script & apply aliases
